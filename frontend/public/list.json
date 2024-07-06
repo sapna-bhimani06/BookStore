@@ -1,0 +1,73 @@
+[{
+    "id":1,
+    "name":"Stroy book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT BOOKSTORE",
+    "price":540,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":2,
+    "name":"Drama book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT OXFORD BOOKSTORE",
+    "price":330,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":3,
+    "name":"Poem book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT OXFORD BOOKSTORE",
+    "price":320,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":4,
+    "name":"Sport book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT  BOOKSTORE",
+    "price":220,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":5,
+    "name":"Music book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT BOOKSTORE",
+    "price":220,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":6,
+    "name":"Comdia book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT  BOOKSTORE",
+    "price":220,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":7,
+    "name":"food book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT  BOOKSTORE",
+    "price":320,
+    "category":"free",
+    "image":"./freebook.jpg"
+},
+
+{
+    "id":8,
+    "name":"Poem book",
+    "title":"SHOP YOUR FAVOURITE BOOKS ONLINE AT BOOKSTORE",
+    "price":120,
+    "category":"free",
+    "image":"./freebook.jpg"
+}
+
+]
